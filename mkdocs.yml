@@ -1,5 +1,4 @@
-
-site_name: Student Management System User and Developers Documentation
+site_name: My MkDocs Site
 site_url: https://bigachievers123.github.io/project_MK
 nav:
     - Home: index.md
